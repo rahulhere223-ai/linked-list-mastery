@@ -64,3 +64,10 @@ Day 2-
 2.- Insertion(Head,Tail,Position)
   - Deletion(Head,Tail,Position)
   - Reverse a Doubly Linked List
+
+Day 3-
+1.Add two number in a linkedList
+2.reverse a linked list
+3.Find middle of linked List
+4.Delete middle of Linked List
+5.Detect a loop
