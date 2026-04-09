@@ -72,3 +72,8 @@ Day 3-
 3.Find middle of linked List
 4.Delete middle of Linked List
 5.Detect a loop
+
+Day 4-
+1.Odd and Even LinkedList
+2.Sort a LinkedList of 0's 1's 2's
+3.Check if LinkedList is Palindrome
